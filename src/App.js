@@ -11,6 +11,7 @@ import ProjectsData from "./data/projects.json";
 
 function App() {
   return (
+    //Hello
     <div className="flex flex-wrap justify-center p-8 pb-0 md:p-14 max-w-5xl mx-auto">
       <p
         className="text-4xl w-full -ml-10 mb-8 bg-contain bg-no-repeat "
